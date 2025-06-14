@@ -1,1 +1,19 @@
-{"Name": "ThinkAloud", "DatasetType": "raw", "Authors": ["Hongmi Lee", "Xian Li", "Savannah Born", "Christopher Honey", "Janice Chen"], "HowToAcknowledge": "TBA", "ReferencesAndLinks": ["reference - Su, H., Li, X., Born, S., Honey, C.J., Chen, J., Lee, H., 2024. Neural dynamics of spontaneous memory recall and future thinking in the continuous flow of thoughts. biorXiv.", "link - https://doi.org/10.1101/2024.10.02.616300"], "DatasetDOI": "TBA", "BIDSVersion": "1.7.0"}
+{
+    "Name": "ThinkAloud",
+    "DatasetType": "raw",
+    "Authors": [
+        "Hongmi Lee",
+        "Xian Li",
+        "Savannah Born",
+        "Christopher Honey",
+        "Janice Chen"
+    ],
+    "HowToAcknowledge": "TBA",
+    "ReferencesAndLinks": [
+        "reference - Su, H., Li, X., Born, S., Honey, C.J., Chen, J., Lee, H., 2024. Neural dynamics of spontaneous memory recall and future thinking in the continuous flow of thoughts. biorXiv.",
+        "link - https://doi.org/10.1101/2024.10.02.616300"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006067.v1.0.0",
+    "BIDSVersion": "1.7.0",
+    "License": "CC0"
+}
