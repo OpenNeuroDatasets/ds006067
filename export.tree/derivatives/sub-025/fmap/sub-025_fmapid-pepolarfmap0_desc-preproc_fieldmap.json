@@ -1,0 +1,13 @@
+{
+  "AnatomicalReference": "sub-025_fmapid-pepolarfmap0_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-025_fmapid-pepolarfmap0_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "pepolar_fmap0",
+  "IntendedFor": [],
+  "RawSources": [
+    "/data/sub-025/fmap/sub-025_dir-AP_epi.nii.gz",
+    "/data/sub-025/fmap/sub-025_dir-PA_epi.nii.gz"
+  ],
+  "Units": "Hz"
+}

@@ -1,0 +1,10 @@
+{
+  "RepetitionTime": 1.5,
+  "SkullStripped": false,
+  "SliceTimingCorrected": false,
+  "SpatialSmoothingFWHM": 4,
+  "Denoising": true,
+  "Detrending": true,
+  "Standardization": "zscore",
+  "TaskName": "thinkaloud"
+}
